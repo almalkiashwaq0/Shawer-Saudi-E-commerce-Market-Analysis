@@ -39,6 +39,14 @@
 - **Data Cleaning:** The comments had various issues. We cleaned the data by removing newlines, stripping whitespace, and eliminating emojis, special characters, numbers, English words and sentences, and repeated characters.
 
 ### Insights
+- A bar chart showing the number of stores under each category.
+  <img src="newplot (1).png" alt="stores" width="300"/>
+  
+- A bar chart showing the average rating for each category.
+  <img src="newplot 9.png" alt="stores" width="300"/>
+
+
+
 
 ### Model
 **Topic**
