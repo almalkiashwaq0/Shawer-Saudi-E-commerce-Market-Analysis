@@ -43,7 +43,10 @@
   <img src="newplot (1).png" alt="stores" width="300"/>
   
 - A bar chart showing the average rating for each category.
-  <img src="newplot 9.png" alt="stores" width="300"/>
+  <img src="newplot 10.png" alt="stores" width="300"/>
+
+- A pie chart showing the percentages of gold and silver certificates for all stores.
+  <img src="newplot.png" alt="stores" width="300"/>
 
 
 
