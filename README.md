@@ -39,14 +39,21 @@
 - **Data Cleaning:** The comments had various issues. We cleaned the data by removing newlines, stripping whitespace, and eliminating emojis, special characters, numbers, English words and sentences, and repeated characters.
 
 ### Insights
-- A bar chart showing the number of stores under each category.
-  <img src="newplot (1).png" alt="stores" width="300"/>
+1- A bar chart showing the number of stores under each category.
+  <img src="newplot (1).png" alt="stores" width="500"/>
   
-- A bar chart showing the average rating for each category.
-  <img src="newplot 10.png" alt="stores" width="300"/>
+2- A scatter plot chart showing the average rating for each category.
+  <img src="newplot 10.png" alt="stores" width="500"/>
 
-- A pie chart showing the percentages of gold and silver certificates for all stores.
-  <img src="newplot.png" alt="stores" width="300"/>
+3- A pie chart showing the percentages of gold and silver certificates for all stores.
+  <img src="newplot.png" alt="stores" width="500"/>
+
+4- A bar chart that shows the average user interaction with stores under each category.
+   <img src="newplot7.png" alt="stores" width="500"/>
+
+5- A scatter plot Chart shows the top ten stores that received the most interaction from their customers.
+   <img src="newplot (2).png" alt="stores" width="500"/>
+
 
 
 
