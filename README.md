@@ -90,14 +90,13 @@
 - We achieved an accuracy of 91%.
 
 ### DashBoard Link
-
-
-### Demo Link
+https://app.powerbi.com/view?r=eyJrIjoiZGQyYWUxNDgtMmQ1Yi00Y2NkLTk5ZWMtM2Q5ODk1MWU3ZjUzIiwidCI6ImI0NTNkOTFiLTZhYzEtNGI2MS1iOGI4LTVlNjVlNDIyMjMzZiIsImMiOjl9
 
 ### Team Members
-- Samer Gharbi
-- Mohammed Alamri
-- Abdullah Thabet
-- Dania Alshehri
-- Ashwaq Almalki
+- [Samer Gharbi](https://linkedin.com/in/samer-gharbi-5709402ba)  
+- [Mohammed Alamri](https://www.linkedin.com/in/mohammed-alamri-40315827b)  
+- [Abdullah Thabet](https://www.linkedin.com/in/abdullah-thabet-093056204)
+- [Dania Alshehri](https://sa.linkedin.com/in/dania-alshehri) 
+- [Ashwaq Almalki](https://www.linkedin.com/in/ashwag-almalki-981338307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 
