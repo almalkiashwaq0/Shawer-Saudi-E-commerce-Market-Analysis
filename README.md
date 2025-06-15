@@ -1,4 +1,3 @@
-# Capstone Project🎓🥳
 # Shawer شاور
 
 ### This project aims to analyze the e-commerce market in the Kingdom of Saudi Arabia using the Maroof website, which serves as the primary source of licenses for e-commerce stores.
