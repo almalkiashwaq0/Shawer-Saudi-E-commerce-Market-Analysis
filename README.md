@@ -41,7 +41,7 @@
 1. A bar chart showing the number of stores under each category.  
    According to the chart, there is a significant difference in the number of stores across categories. Business Services has around 14k stores, whereas Real Estate has approximately 500.
    
-   <img src="newplot (1).png" alt="stores" width="500"/>
+   <img src="Plot\newplot (1).png" alt="stores" width="500"/>
 
 
 2. A bar chart showing the average rating for each category.  
