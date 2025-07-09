@@ -81,7 +81,7 @@
 - After the model provided results, we selected the most prominent and meaningful topics.
 - We then manually selected 20 comments for each topic across four category types.
 - We used the SetFit transform model on the manually chosen data to train the model for predicting the topics for the entire stors comments dataset.
-- We achieved an accuracy of 92% for the Business Services category, 90% for Food, 82% for Beauty, and 90% for Health.
+- We achieved an accuracy of 92% for the Business Services category, 90% for both the Health & Beauty and Electronics categories, and 82% for the Food and Drinks category.
 
 **Sentiment Analysis**
 - For each topic, we analyzed which comments were negative and which were positive.
@@ -96,6 +96,6 @@ https://app.powerbi.com/view?r=eyJrIjoiZGQyYWUxNDgtMmQ1Yi00Y2NkLTk5ZWMtM2Q5ODk1M
 - [Mohammed Alamri](https://www.linkedin.com/in/mohammed-alamri-40315827b)  
 - [Abdullah Thabet](https://www.linkedin.com/in/abdullah-thabet-093056204)
 - [Dania Alshehri](https://sa.linkedin.com/in/dania-alshehri) 
-- [Ashwaq Almalki](https://www.linkedin.com/in/ashwag-almalki-981338307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [Ashwaq Almalki](https://www.linkedin.com/in/ashwaq-data)
 
 
