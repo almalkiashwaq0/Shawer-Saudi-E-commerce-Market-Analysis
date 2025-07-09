@@ -88,9 +88,9 @@
 - We manually selected 100 positive comments and 100 negative comments for SetFit training, and then applied the model to the entire store comments dataset.
 - We achieved an accuracy of 91%.
 
-### [View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGQyYWUxNDgtMmQ1Yi00Y2NkLTk5ZWMtM2Q5ODk1MWU3ZjUzIiwidCI6ImI0NTNkOTFiLTZhYzEtNGI2MS1iOGI4LTVlNjVlNDIyMjMzZiIsImMiOjl9)
-
-### [Explore the Dataset on Kaggle](https://www.kaggle.com/datasets/ashwaq000/maroof-store-reviews-with-sentiment-and-topic-labels)
+### Resources
+- [View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGQyYWUxNDgtMmQ1Yi00Y2NkLTk5ZWMtM2Q5ODk1MWU3ZjUzIiwidCI6ImI0NTNkOTFiLTZhYzEtNGI2MS1iOGI4LTVlNjVlNDIyMjMzZiIsImMiOjl9)
+- [Explore the Dataset on Kaggle](https://www.kaggle.com/datasets/ashwaq000/maroof-store-reviews-with-sentiment-and-topic-labels)
 
 ### Team Members
 - [Samer Gharbi](https://linkedin.com/in/samer-gharbi-5709402ba)  
