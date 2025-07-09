@@ -47,31 +47,31 @@
 2. A bar chart showing the average rating for each category.  
    We can observe that the average ratings are between 4 and 5 across all categories.
    
-   <img src="newplot 9.png" alt="average ratings" width="500"/>
+   <img src="Plot\newplot 9.png" alt="average ratings" width="500"/>
 
 
 3. A pie chart showing the percentages of gold and silver certificates for all stores.  
    Most stores (63.7%) have silver certification, compared to 27.4% with gold certification.
     
-   <img src="newplot.png" alt="certificates" width="500"/>
+   <img src="Plot\newplot.png" alt="certificates" width="500"/>
 
 
 4. A bar chart showing the average user interaction with stores under each category.  
    Electronics have more reviews, even though Business Services have more stores than Electronics, with around 7,000 stores.
    
-   <img src="newplot7.png" alt="user interactions" width="500"/>
+   <img src="Plot\newplot7.png" alt="user interactions" width="500"/>
 
 
 5. A scatter plot showing the top ten stores that received the most interaction from their customers.  
    The store "أنا تقني" received more reviews than any other store, connected to the fact that Electronics had the most reviews.
    
-   <img src="newplot (2).png" alt="top stores interaction" width="500"/>
+   <img src="Plot\newplot (2).png" alt="top stores interaction" width="500"/>
 
 
 6. A bar chart showing the average rating of the top twenty stores in user interaction.  
    We observe that the top 20 stores have similar ratings, with the lowest at 4.4 and the highest at 4.98.
     
-   <img src="newplot 8.png" alt="average ratings top stores" width="500"/>
+   <img src="Plot\newplot 8.png" alt="average ratings top stores" width="500"/>
 
 
 
@@ -91,11 +91,12 @@
 ### DashBoard Link
 https://app.powerbi.com/view?r=eyJrIjoiZGQyYWUxNDgtMmQ1Yi00Y2NkLTk5ZWMtM2Q5ODk1MWU3ZjUzIiwidCI6ImI0NTNkOTFiLTZhYzEtNGI2MS1iOGI4LTVlNjVlNDIyMjMzZiIsImMiOjl9
 
+### DataSet Link
+https://www.kaggle.com/datasets/ashwaq000/maroof-store-reviews-with-sentiment-and-topic-labels
+
 ### Team Members
 - [Samer Gharbi](https://linkedin.com/in/samer-gharbi-5709402ba)  
 - [Mohammed Alamri](https://www.linkedin.com/in/mohammed-alamri-40315827b)  
 - [Abdullah Thabet](https://www.linkedin.com/in/abdullah-thabet-093056204)
 - [Dania Alshehri](https://sa.linkedin.com/in/dania-alshehri) 
 - [Ashwaq Almalki](https://www.linkedin.com/in/ashwaq-data)
-
-
