@@ -73,6 +73,11 @@
     
    <img src="Plot\newplot 8.png" alt="average ratings top stores" width="500"/>
 
+### Methodology Overview
+
+The diagram below summarizes the workflow used to classify topics and sentiment from e-commerce store comments.
+
+<img src="Plot/Shawer.drawio.png" alt="Methodology Flowchart" width="600"/>
 
 
 ### Model
