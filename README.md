@@ -77,7 +77,7 @@
 
 The diagram below summarizes the workflow used to classify topics and sentiment from e-commerce store comments.
 
-<img src="Plot/Shawer.drawio.png" alt="Methodology Flowchart" width="600"/>
+<img src="Plot/Shawer.drawio.png" alt="Methodology Flowchart" width="500"/>
 
 
 ### Model
